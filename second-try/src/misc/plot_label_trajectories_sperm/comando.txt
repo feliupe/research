@@ -1,0 +1,1 @@
+clear last; last (1:400) = 90; plot_trajectories(image, trajectories, 0.99, last, 0);

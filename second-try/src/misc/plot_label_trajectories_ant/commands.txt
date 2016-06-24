@@ -1,0 +1,4 @@
+
+trajectories = extract_trajectories(object_hist);
+image = imread('image.png');
+last (1:size(object_hist)) = 450;plot_trajectories(image, trajectories, 0.7, last, 0);

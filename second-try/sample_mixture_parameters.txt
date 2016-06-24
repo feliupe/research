@@ -1,0 +1,10 @@
+mixparam.K = 3;
+mixparam.ALPHA = 0.02*30;
+mixparam.RHO = 0.01;
+mixparam.DEVIATION_SQ_THRESH = (7^2);
+mixparam.INIT_VARIANCE = 3;
+mixparam.INIT_MIXPROP = 0.00001;
+mixparam.BACKGROUND_THRESH = 0.9;
+mixparam.COMPONENT_THRESH = 5*25;
+
+40
